@@ -2,7 +2,7 @@
 
 - [Introduction](./intro.md)
 
-## Characters
+# Characters
 
 - [Zack Casey](./characters/zackc.md)
 

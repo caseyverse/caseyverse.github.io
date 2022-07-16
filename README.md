@@ -9,4 +9,4 @@ Caseyverse (or Casey Universe) is a [collaborative](https://en.wikipedia.org/wik
 
 ## License
 
-All content, characters, setting, appearance in this book has had its copyright transferred to the [public domain](LICENSE).
+All content, characters, setting, appearances related to the Caseyverse is in the [public domain](LICENSE).

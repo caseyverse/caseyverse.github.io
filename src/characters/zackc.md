@@ -1,3 +1,3 @@
 # Zack Casey
 
-Zack is a blue fennec who loves music and loves to play the electric guitar or villain. He was taught to play the guitar in music class and learned to play the villain from practice.
+Zack Casey is an ambitious, witty, and somewhat stubborn fennec that wants nothing more than his friends and self included to be free from the Tame collars. Unfortunately, this would eventually make him a fugitive after the collapse of Wild Times.

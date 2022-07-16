@@ -4,7 +4,7 @@ Named after [Zack Casey](./characters/zackc.md), the Caseyverse (or Casey Univer
 
 ## Multiverse
 
-| Name                                       | Description                                             |
-| ------------------------------------------ | ------------------------------------------------------- |
-| Prime                                      | The main universe based on modern to near-future times. |
-| [Legends](https://legends.caseyverse.info) | A high-fantasy version of Caseyverse based on D&D.      |
+| Name                                       | Description                                                   |
+| ------------------------------------------ | ------------------------------------------------------------- |
+| Prime                                      | The main universe based on modern to near-future times.       |
+| [Legends](https://legends.caseyverse.info) | A high-fantasy version of Caseyverse meant for dungeon games. |

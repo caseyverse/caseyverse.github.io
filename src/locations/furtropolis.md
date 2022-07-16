@@ -1,3 +1,5 @@
 # Furtropolis
 
-The capital of Nethinton, Furtropolis is a supercity home to vast array of cultures.
+![Furtropolis](./../imgs/furtropolis.png)
+
+Furtropolis is a metropolis within the New Hazelport region of the United Commonwealth.

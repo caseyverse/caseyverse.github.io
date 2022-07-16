@@ -11,11 +11,8 @@
 
 - [Terra](./locations/terra.md)
 - [Furtropolis](./locations/furtropolis.md)
+- [Bedford Village](./locations/bedford.md)
 - [Hundreds Acre Wood](./locations/hundredacre.md)
-
-# Culture
-
-- [Tame Collar](./culture/tamecollar.md)
 
 # Legal
 

@@ -13,6 +13,10 @@
 - [Furtropolis](./locations/furtropolis.md)
 - [Hundreds Acre Wood](./locations/hundredacre.md)
 
+# Culture
+
+- [Tame Collar](./culture/tamecollar.md)
+
 # Legal
 
 - [Copyrights](./legal/copyrights.md)

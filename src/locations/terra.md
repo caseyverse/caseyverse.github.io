@@ -6,7 +6,7 @@ Caseyverse takes place on a continental planet named Terra with the majority of 
 
 ## United Commonwealth
 
-Modeled after the US and UK, the United Commonwealth (UC) is a democratic nation with a parliamentary government. After helping win the Great War, it became the largest and most powerful nation in Terra. The UC has a 90% prey and 10% predator population but the latter started to gain more control that the former issued a nationwide tame collar law.
+Modeled after the US and UK, the United Commonwealth (UC) is a democratic nation with a parliamentary government. After helping win the Great War, it became the largest and most powerful nation in Terra.
 
 ## Technology
 

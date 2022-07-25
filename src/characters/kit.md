@@ -4,6 +4,6 @@ Kit Welsh is a highly trained medical practitioner at Forest View Clinic in Furt
 
 | Characteristics |             |
 | --------------- | ----------- |
-| Nickname        | Dr. K       |
+| Nickname(s)     | Dr. K       |
 | Species         | Raccoon     |
 | Relative Age    | Young Adult |

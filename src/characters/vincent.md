@@ -4,6 +4,6 @@ Living on the southwest corner of the city, Vincent Cooper is a pessimistic and 
 
 | Characteristics |             |
 | --------------- | ----------- |
-| Nickname        | Eeyore      |
+| Nickname(s)     | Eeyore      |
 | Species         | Donkey      |
 | Relative Age    | Young Adult |

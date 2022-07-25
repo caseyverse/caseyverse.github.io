@@ -4,6 +4,6 @@ Edward Winnie Bear is a soft spoken, curious and benevolent bear. He has a pench
 
 | Characteristics |              |
 | --------------- | ------------ |
-| Nickname        | Winnie, Pooh |
+| Nickname(s)     | Winnie, Pooh |
 | Species         | Bear         |
 | Relative Age    | Young Adult  |

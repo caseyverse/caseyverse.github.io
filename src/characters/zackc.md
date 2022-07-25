@@ -4,6 +4,6 @@ Zack Casey is a cheerful, compassionate, and helpful fennec with blue fur. Even 
 
 | Characteristics |             |
 | --------------- | ----------- |
-| Nickname        | Z           |
+| Nickname(s)     | Z           |
 | Species         | Fennec      |
 | Relative Age    | Young Adult |

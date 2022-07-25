@@ -6,13 +6,8 @@
 
 - [Zack Casey](./characters/zackc.md)
 - [Edward Bear](characters/edward.md)
-
-# Locations
-
-- [Terra](./locations/terra.md)
-- [Furtropolis](./locations/furtropolis.md)
-- [Bedford Village](./locations/bedford.md)
-- [Hundreds Acre Wood](./locations/hundredacre.md)
+- [Kit Welsh](./characters/kit.md)
+- [Vincent Cooper](./characters/vincent.md)
 
 # Legal
 

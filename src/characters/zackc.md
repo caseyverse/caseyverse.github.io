@@ -1,3 +1,9 @@
 # Zack Casey
 
-Zack Casey is an ambitious, witty, and somewhat stubborn fennec that wants nothing more than his friends and self included to be free from the Tame collars. Unfortunately, this would eventually make him a fugitive after the collapse of Wild Times.
+Zack Casey is a cheerful, compassionate, and helpful fennec with blue fur. Even at a young age, he has always been wise, mature and has passion for science and technology. Zack enjoys reading, chemistry and music.
+
+| Characteristics |             |
+| --------------- | ----------- |
+| Nickname        | Z           |
+| Species         | Fennec      |
+| Relative Age    | Young Adult |

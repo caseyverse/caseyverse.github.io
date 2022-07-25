@@ -1,7 +1,9 @@
 # Edward Bear
 
-Edward Bear is a bear from the [Hundred Acre Wood](./../locations/hundredacre.md).
+Edward Winnie Bear is a soft spoken, curious and benevolent bear. He has a penchant for honey but is very resourceful about how he uses it. He has a talent for reciting poems and humming them really softly to himself.
 
-## Personality
-
-Edward is a soft spoken, curious, imaginative and benevolent, if somewhat absent-minded, bear that means well. He has a major penchant for honey. Edward is a talented poet and likes to hum poems that he comes up with.
+| Characteristics |              |
+| --------------- | ------------ |
+| Nickname        | Winnie, Pooh |
+| Species         | Bear         |
+| Relative Age    | Young Adult  |

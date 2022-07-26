@@ -4,6 +4,6 @@ Healthstone Clinic is a clinic located on the eastern side of Furtropolis. It is
 
 ## Treatments
 
-### Phage Therapy
+### Phage Therapy (Synthetic)
 
-Synthetic [Phages](https://en.wikipedia.org/wiki/Bacteriophage) are genitally modified phages used to treat many different kinds of infections and fighting against disease-causing bacteria through injection. Advantages include reduced side-effects and preventing bacteria from gaining resistance to antibiotic treatment. The use of synthetic phages has allowed many to live longer and healthier lives.
+Synthetic [Phages](https://en.wikipedia.org/wiki/Bacteriophage) are genitally modified phages used to treat many different kinds pathogenic bacteria whilst being unable to infect the host. Advantages include reduced side-effects and preventing bacteria from gaining resistance to antibiotic treatment. The use of synthetic phages has allowed many to live longer and healthier lives.

@@ -1,6 +1,6 @@
 # Healthstone Clinic
 
-Healthstone Clinic is a clinic located on the eastern side of Furtropolis. It is where [Kit Welsh](../characters/kit.md) gives physical exams, treating or vaccinating his patients. The clinic has become known for it's specialization in phage research and the use of them to infections and treating diseases caused by bacteria using phage therapy.
+Healthstone Clinic is a clinic located on the eastern side of Furtropolis. It is where [Kit Welsh](../characters/kit.md) gives physical exams, treating or vaccinating his patients. The clinic has become known for it's specialization in phage research and the use of them to treat infections diseases caused by pathogenic bacteria through phage therapy.
 
 ## Treatments
 

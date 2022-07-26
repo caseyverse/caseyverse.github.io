@@ -1,6 +1,6 @@
 # Introduction
 
-Named after [Zack Casey](./characters/zackc.md), the Caseyverse (or Casey Universe) is a [collaborative](https://en.wikipedia.org/wiki/Collaborative_fiction) fictional universe based on Tony Bark's characters.
+Named after [Zack Casey](./characters/zackc.md), the Caseyverse (or Casey Universe) is a [collaborative](https://en.wikipedia.org/wiki/Collaborative_fiction) science-fiction universe based on Tony Bark's characters.
 
 ## Multiverse
 

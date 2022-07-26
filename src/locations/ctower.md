@@ -1,0 +1,3 @@
+# Central Tower
+
+In the center of the city stands the Central Tower, a testament to progress and the power of progress. It is tall, strong, skyscraper that is filled with the latest modern amenities. Residents of the lower floors enjoy quick access to the city's finest restaurants and shops. The lobby itself is a bustling hub of activity where visitors can enjoy refreshments in the lounge or catch up on local news at the town hall with offices for politicians and other officials on higher floors above. The mayor has reserved a penthouse on top of Central Tower that provides him with an unparalleled view of his city from every angle.

@@ -14,6 +14,7 @@
 - [Furtropolis](./locations/furtropolis.md)
 - [Central Tower](./locations/ctower.md)
 - [Healthstone Clinic](./locations/healthstone.md)
+- [Golden Oak Academy](./locations/goldenoak.md)
 
 # Legal
 

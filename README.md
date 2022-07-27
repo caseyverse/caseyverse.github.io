@@ -1,6 +1,6 @@
 # Caseyverse
 
-Caseyverse (or Casey Universe) is a [collaborative](https://en.wikipedia.org/wiki/Collaborative_fiction) science-fiction universe.
+Caseyverse (or Casey Universe) is a [public domain](LICENSE) [collaborative](https://en.wikipedia.org/wiki/Collaborative_fiction) science-fiction universe.
 
 ## Requirements
 

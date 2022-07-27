@@ -1,6 +1,6 @@
 # Zack Casey
 
-Zack Casey is a cheerful, compassionate, and helpful fennec with blue fur. Even at a young age, he has always been wise, mature and has passion for science and technology. Zack enjoys reading, chemistry and music.
+Zack Casey is a rebellious fennec with blue fur that grew up as an orphan. Despite his rebel ways, he does mean well and tries his best to be helpful. Zack enjoys reading, chemistry and music.
 
 | Characteristics |             |
 | --------------- | ----------- |

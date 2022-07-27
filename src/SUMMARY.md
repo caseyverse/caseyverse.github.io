@@ -12,6 +12,7 @@
 # Locations
 
 - [Furtropolis](./locations/furtropolis.md)
+- [Metro](./locations/metro.md)
 - [Central Tower](./locations/ctower.md)
 - [Healthstone Clinic](./locations/healthstone.md)
 - [Golden Oak Academy](./locations/goldenoak.md)

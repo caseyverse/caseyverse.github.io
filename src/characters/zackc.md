@@ -1,3 +1,3 @@
 # Zack Casey
 
-Zack Casey is a rebellious young adult fennec with blue fur that grew up as an orphan living in Furtropolis with his adopted father, Kit Welsh. Despite his rebel ways, she does mean well and tries his best to be helpful. Zack loves trains and later science after she was handed down Kit's old chemistry set later in his childhood.
+Zack Casey is a socially awkward young adult fennec with blue fur that grew up as an orphan living in Furtropolis that loves loves trains and science. He was adopted by Kit Welsh. Despite his occasional social screw ups, he does mean well and tries his best to be helpful when he can.

@@ -2,12 +2,17 @@
 
 - [Introduction](./intro.md)
 
+# World
+
+- [Fastryx](./world/fastryx.md)
+
 # Characters
 
 - [Zack Casey](./characters/zackc.md)
 - [Edward Bear](characters/edward.md)
 - [Kit Welsh](./characters/kit.md)
 - [Vincent Cooper](./characters/vincent.md)
+- [Nate Holland](./characters/nate.md)
 
 # Locations
 
@@ -16,6 +21,11 @@
 - [Central Tower](./locations/ctower.md)
 - [Healthstone Clinic](./locations/healthstone.md)
 - [Golden Oak Academy](./locations/goldenoak.md)
+- [Maple Valley Acres](./locations/maplevalley.md)
+
+# Culture
+
+- [Technology](./culture/tech.md)
 
 # Legal
 

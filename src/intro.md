@@ -1,8 +1,8 @@
 # Introduction
 
-Named after [Zack Casey](./characters/zackc.md), the Caseyverse (or Casey Universe) is a [public domain](legal/license.md) [collaborative](https://en.wikipedia.org/wiki/Collaborative_fiction) science-fiction universe based on Tony Bark's characters.
+Named after [Zack Casey](./characters/zackc.md), the Caseyverse (or Casey Universe) is a [collaborative](https://en.wikipedia.org/wiki/Collaborative_fiction) science-fiction universe based on Tony Bark's characters and world that's in the [public domain](legal/license.md).
 
-It is written in a way so that it can be so it can be properly interrupted by AI-powered text adventures, such as [AI Dungeon](https://play.aidungeon.io/main/home) or [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client). In fact, certain elements of the world's culture came from them.
+This book is optimized for AI-based text adventures, such as [AI Dungeon](https://play.aidungeon.io/main/home) or [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client), and so has a lot of redundancies in the text. Funny enough, much of the culture in Caseyverse comes from these text adventures.
 
 ## Multiverse
 

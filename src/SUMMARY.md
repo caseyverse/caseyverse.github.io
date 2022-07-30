@@ -4,7 +4,7 @@
 
 # World
 
-- [Fastryx](./world/fastryx.md)
+- [Materials](./world/materials.md)
 
 # Characters
 

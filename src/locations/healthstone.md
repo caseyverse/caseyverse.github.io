@@ -1,9 +1,3 @@
 # Healthstone Clinic
 
-Healthstone Clinic is a clinic located on the eastern side of Furtropolis. It is where [Kit Welsh](../characters/kit.md) gives physical exams, treating or vaccinating his patients. The clinic has become known for it's specialization in phage research with the help of [Golden Oak Academy](./goldenoak.md) and the use of them to treat infections diseases caused by pathogenic bacteria through phage therapy.
-
-## Treatments
-
-### Phage Therapy (Synthetic)
-
-Phage Therapy is the practice of using genitally modified phages to treat many different kinds pathogenic bacteria whilst being unable to infect the host. Advantages include reduced side-effects and preventing bacteria from gaining resistance to antibiotic treatment. The use of synthetic phages has allowed many to live longer and healthier lives.
+Located on the east end of the city between Princess Boulevard and Smith Way, Healthstone Clinic is a clinic where Kit Welsh gives physical exams, treating or vaccinating his patients. [Golden Oak Academy](goldenoak.md) assists the clinic in varies medical research.

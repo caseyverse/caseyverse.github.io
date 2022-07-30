@@ -4,4 +4,4 @@ In the center of the city stands the Central Tower, a testament to progress and 
 
 ## Central Station
 
-Central Station is a high passenger volume station located beneath Central Tower's lobby. It serves as an intersection between the [Metro](metro.md)'s many lines. Though not a terminal, it does serve as a frequent stop for many regional trains coming to or from Furtropolis Union Station, often simultaneously.
+Central Station is a high passenger volume station located beneath Central Tower's lobby. It serves as an intersection between the [Metro](metro.md)'s many lines, and acts as structural support for the tower above. Though not a terminal, it does serve as a frequent stop for many regional trains coming to or from Union Station, often simultaneously.
